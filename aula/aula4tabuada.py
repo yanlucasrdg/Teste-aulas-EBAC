@@ -1,0 +1,12 @@
+num = int(input("Digite um número para gerar sua tabuada:  \n"))
+
+print("{} x {} = {}  \n".format(num, 1, num*1))
+print("{} x {} = {}  \n".format(num, 2, num*2))
+print("{} x {} = {}  \n".format(num, 3,num*3))
+print("{} x {} = {}  \n".format(num, 4, num*4))
+print("{} x {} = {}  \n".format(num, 5, num*5))
+print("{} x {} = {}  \n".format(num, 6, num*6))
+print("{} x {} = {}  \n".format(num, 7, num*7))
+print("{} x {} = {}  \n".format(num, 8, num*8))
+print("{} x {} = {}  \n".format(num, 9, num*9))
+print("{} x {} = {}  \n".format(num, 10, num*10))
